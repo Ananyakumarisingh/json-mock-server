@@ -1,66 +1,68 @@
-[
-  {
-  "id": 1,
-  "name": "Cherry",
-  "age": 2,
-  "place": "Visakhapatnam",
-  "gender": "Male",
-  "img": "https://static.toiimg.com/thumb/msid-60132235,width-1280,resizemode-4/60132235.jpg"
-  },
-  {
-  "id": 1,
-  "name": "Tommy",
-  "age": 3,
-  "place": "Banglore",
-  "gender": "Female",
-  "img": "https://static.toiimg.com/thumb/msid-60132235,width-1280,resizemode-4/60132235.jpg"
-  },
-  {
-  "id": 3,
-  "name": "Lucy",
-  "age": 5,
-  "place": "Kolkata",
-  "gender": "female",
-  "img": "https://static.toiimg.com/thumb/msid-60132235,width-1280,resizemode-4/60132235.jpg"
-  },
-  {
-  "id": 4,
-  "name": "Sakshi",
-  "gender": "female",
-  "age": "6",
-  "place": "Noida",
-  "img": "https://static.toiimg.com/thumb/msid-60132235,width-1280,resizemode-4/60132235.jpg"
-  },
-  {
-  "id": 1,
-  "name": "Cherry",
-  "age": 2,
-  "place": "Visakhapatnam",
-  "gender": "Male",
-  "img": "https://static.toiimg.com/thumb/msid-60132235,width-1280,resizemode-4/60132235.jpg"
-  },
-  {
-  "id": 1,
-  "name": "Tommy",
-  "age": 3,
-  "place": "Banglore",
-  "gender": "Female",
-  "img": "https://static.toiimg.com/thumb/msid-60132235,width-1280,resizemode-4/60132235.jpg"
-  },
-  {
-  "id": 3,
-  "name": "Lucy",
-  "age": 5,
-  "place": "Kolkata",
-  "gender": "female",
-  "img": "https://static.toiimg.com/thumb/msid-60132235,width-1280,resizemode-4/60132235.jpg"
-  },
-  {
-  "id": 4,
-  "name": "Sakshi",
-  "gender": "female",
-  "age": "6",
-  "place": "Noida",
-  "img": "https://static.toiimg.com/thumb/msid-60132235,width-1280,resizemode-4/60132235.jpg"
-  }
+{
+  "dogs": [
+    {
+      "id": 1,
+      "name": "Cherry",
+      "age": 2,
+      "place": "Visakhapatnam",
+      "gender": "Male",
+      "img": "https://static.toiimg.com/thumb/msid-60132235,width-1280,resizemode-4/60132235.jpg"
+    },
+    {
+      "id": 1,
+      "name": "Tommy",
+      "age": 3,
+      "place": "Banglore",
+      "gender": "Female",
+      "img": "https://static.toiimg.com/thumb/msid-60132235,width-1280,resizemode-4/60132235.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Lucy",
+      "age": 5,
+      "place": "Kolkata",
+      "gender": "female",
+      "img": "https://static.toiimg.com/thumb/msid-60132235,width-1280,resizemode-4/60132235.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Sakshi",
+      "gender": "female",
+      "age": "6",
+      "place": "Noida",
+      "img": "https://static.toiimg.com/thumb/msid-60132235,width-1280,resizemode-4/60132235.jpg"
+    },
+    {
+      "id": 1,
+      "name": "Cherry",
+      "age": 2,
+      "place": "Visakhapatnam",
+      "gender": "Male",
+      "img": "https://static.toiimg.com/thumb/msid-60132235,width-1280,resizemode-4/60132235.jpg"
+    },
+    {
+      "id": 1,
+      "name": "Tommy",
+      "age": 3,
+      "place": "Banglore",
+      "gender": "Female",
+      "img": "https://static.toiimg.com/thumb/msid-60132235,width-1280,resizemode-4/60132235.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Lucy",
+      "age": 5,
+      "place": "Kolkata",
+      "gender": "female",
+      "img": "https://static.toiimg.com/thumb/msid-60132235,width-1280,resizemode-4/60132235.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Sakshi",
+      "gender": "female",
+      "age": "6",
+      "place": "Noida",
+      "img": "https://static.toiimg.com/thumb/msid-60132235,width-1280,resizemode-4/60132235.jpg"
+    }
   ]
+}
