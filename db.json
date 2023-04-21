@@ -1,14 +1,30 @@
-{
+[
+  {
   "user": [
-    {
-      "id": "1",
-      "name": "Bhupender",
-      "age": "22"
-    },
     {
       "id": "3",
       "name": "Monkey",
       "age": 22
     }
   ]
-}
+  
+},
+{
+  "dogs": [
+      {
+        "id": 1,
+        "name": "Cherry",
+        "age": 2,
+        "place": "Visakhapatnam",
+        "gender": "Male"
+      },
+      {
+        "id": 1,
+        "name": "Tommy",
+        "age": 3,
+        "place": "Banglore",
+        "gender": "Female"
+      }
+    ]
+  }
+]
