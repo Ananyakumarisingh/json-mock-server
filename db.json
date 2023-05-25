@@ -1,68 +1,24 @@
 {
-  "dogs": [
+  "doctors": [
     {
-      "id": 1,
-      "name": "Cherry",
-      "age": 2,
-      "place": "Visakhapatnam",
-      "gender": "Male",
-      "img": "https://static.toiimg.com/thumb/msid-60132235,width-1280,resizemode-4/60132235.jpg"
+      "name": "Jane Doe",
+      "image": "https://example.com/doctor-image.jpg",
+      "specialization": "Dermatologist",
+      "experience": 10,
+      "location": "Los Angeles",
+      "date": "2023-04-05T12:00:00.000Z",
+      "slots": 2,
+      "fee": 150
     },
     {
-      "id": 1,
-      "name": "Tommy",
-      "age": 3,
-      "place": "Banglore",
-      "gender": "Female",
-      "img": "https://static.toiimg.com/thumb/msid-60132235,width-1280,resizemode-4/60132235.jpg"
-    },
-    {
-      "id": 3,
-      "name": "Lucy",
-      "age": 5,
-      "place": "Kolkata",
-      "gender": "female",
-      "img": "https://static.toiimg.com/thumb/msid-60132235,width-1280,resizemode-4/60132235.jpg"
-    },
-    {
-      "id": 4,
-      "name": "Sakshi",
-      "gender": "female",
-      "age": "6",
-      "place": "Noida",
-      "img": "https://static.toiimg.com/thumb/msid-60132235,width-1280,resizemode-4/60132235.jpg"
-    },
-    {
-      "id": 1,
-      "name": "Cherry",
-      "age": 2,
-      "place": "Visakhapatnam",
-      "gender": "Male",
-      "img": "https://static.toiimg.com/thumb/msid-60132235,width-1280,resizemode-4/60132235.jpg"
-    },
-    {
-      "id": 1,
-      "name": "Tommy",
-      "age": 3,
-      "place": "Banglore",
-      "gender": "Female",
-      "img": "https://static.toiimg.com/thumb/msid-60132235,width-1280,resizemode-4/60132235.jpg"
-    },
-    {
-      "id": 3,
-      "name": "Lucy",
-      "age": 5,
-      "place": "Kolkata",
-      "gender": "female",
-      "img": "https://static.toiimg.com/thumb/msid-60132235,width-1280,resizemode-4/60132235.jpg"
-    },
-    {
-      "id": 4,
-      "name": "Sakshi",
-      "gender": "female",
-      "age": "6",
-      "place": "Noida",
-      "img": "https://static.toiimg.com/thumb/msid-60132235,width-1280,resizemode-4/60132235.jpg"
+      "name": "Mark Johnson",
+      "image": "https://example.com/doctor-image.jpg",
+      "specialization": "Pediatrician",
+      "experience": 5,
+      "location": "Chicago",
+      "date": "2023-04-06T09:30:00.000Z",
+      "slots": 1,
+      "fee": 100
     }
   ]
 }
